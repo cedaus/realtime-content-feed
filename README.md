@@ -10,11 +10,14 @@ Stream is an API for building activity feeds that enables your development team 
 
 With Stream you have the freedom on your data, that remains yours. It allows you to write backups to an S3 bucket of your choosing. This gives you the freedom to move to an in-house solution when you want to.
 
+##### Key Features in App
+* Material Design
+* Twitter like User Connections
+* Creating Activity and accessing in Feed
+* Ability to create Activity Drafts and publish later
+* Engage with Activity via Upvotes, Comments, Bookmarks & Shares
+* Analytics dashboard for Activity
+
+
 #### Activity in Stream
 Activity are syndicated activities commonly used in social web apps and services, similar to those in Facebook, Instagram and Twitter. Activity and Feeds are typically the core experience of social networks, they are also used for notification feeds and audit logs.
-
-###### Key Features in App
-* Follow users and view their posts in feed
-* Create posts drafts and publish them to feed
-* Engage with posts via upvotes, comments & shares
-* Bookmark posts for later read
