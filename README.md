@@ -1,10 +1,11 @@
 # realtime-content-feed
-The application is basic implementation of Facebook like content feed with the popular API Service **Stream** (GetStream.io).
-I have built this application with Django & PSQL on the backend and Angular5 for the frontend.
+The application is basic implementation of Facebook like content feed built on top of popular API Service **Stream** (GetStream.io). I have built this application with Django & PSQL on the backend and Angular5 for the frontend.
+
+The repository contains 1) django-backend and 2) angular-frontend apps, which are self explanatory by their names.
 
 ![alt text](https://cdn.dribbble.com/users/305512/screenshots/2684242/social_sharing_app.jpg)
 
-#### Stream
+#### What is Stream?
 Stream is an API for building activity feeds that enables your development team to build personalized activity feeds. It can be used to build social networks, feeds like twitter and instagram, notification systems. It powers the underlying feed technology, and you have full creative freedom over the UI/UX.
 
 With Stream you have the freedom on your data, that remains yours. It allows you to write backups to an S3 bucket of your choosing. This gives you the freedom to move to an in-house solution when you want to.
@@ -12,10 +13,8 @@ With Stream you have the freedom on your data, that remains yours. It allows you
 #### Activity in Stream
 Activity are syndicated activities commonly used in social web apps and services, similar to those in Facebook, Instagram and Twitter. Activity and Feeds are typically the core experience of social networks, they are also used for notification feeds and audit logs.
 
-###### Features of Feed
-* Create Activity
-* Upvote Activity
-* Comments on Activity
-* Bookmark Activity
-* Create Activity Drafts
-* Share Activity
+###### Key Features in App
+* Follow users and view their posts in feed
+* Create posts drafts and publish them to feed
+* Engage with posts via upvotes, comments & shares
+* Bookmark posts for later read
