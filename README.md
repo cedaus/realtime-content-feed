@@ -10,13 +10,21 @@ Stream is an API for building activity feeds that enables your development team 
 
 With Stream you have the freedom on your data, that remains yours. It allows you to write backups to an S3 bucket of your choosing. This gives you the freedom to move to an in-house solution when you want to.
 
-#### Key Features in App
+#### Key Features in this App
 * Material Design
 * Twitter like User Connections
 * Creating Activity and accessing in Feed
 * Ability to draft Activity and publish later
 * Engage with Activity via Upvotes, Comments, Bookmarks & Shares
 * Analytics dashboard for Activity
+
+
+#### Table of Content
+* Understanding Stream
+* Features
+* Setting Django-Backend App
+* Setting Angular-Frontend App
+* About Developer & Contributors
 
 
 #### Activity in Stream
