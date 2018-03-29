@@ -1,6 +1,8 @@
 # realtime-content-feed
 The application is basic implementation of Facebook like content feed with the popular API Service **Stream** (GetStream.io)
 
+![alt text](https://cdn.dribbble.com/users/305512/screenshots/2684242/social_sharing_app.jpg)
+
 #### Stream
 Stream is an API for building activity feeds that enables your development team to build personalized activity feeds. It can be used to build social networks, feeds like twitter and instagram, notification systems. It powers the underlying feed technology, and you have full creative freedom over the UI/UX.
 
