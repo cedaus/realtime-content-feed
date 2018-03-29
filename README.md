@@ -1,5 +1,6 @@
 # realtime-content-feed
-The application is basic implementation of Facebook like content feed with the popular API Service **Stream** (GetStream.io)
+The application is basic implementation of Facebook like content feed with the popular API Service **Stream** (GetStream.io).
+I have built this application with Django & PSQL on the backend and Angular5 for the frontend.
 
 ![alt text](https://cdn.dribbble.com/users/305512/screenshots/2684242/social_sharing_app.jpg)
 
